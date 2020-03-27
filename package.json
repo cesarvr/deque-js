@@ -1,0 +1,17 @@
+{
+  "name": "dqs",
+  "version": "1.0.1",
+  "description": "Deques are a generalization of stacks and queues (the name is pronounced “deck” and is short for “double-ended queue”). ",
+  "main": "index.js",
+  "directories": {
+    "test": "mocha test/"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0"
+  }
+}
